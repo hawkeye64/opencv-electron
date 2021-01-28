@@ -23,6 +23,6 @@
     "start": "electron ./main/main.js"
   },
   "dependencies": {
-    "electron": "^1.8.4"
+    "electron": "^9.4.0"
   }
 }
